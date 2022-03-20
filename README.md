@@ -5,6 +5,8 @@ Aamiin...
 
 Repository ini dibuat untuk memenuhi Tugas Latihan 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO).
 
+Dari template yang ada di tambahkan atribut Kelas.
+
 ## Screenshoot dari Program setelah dijalankan:
 
 - ### Validasi
